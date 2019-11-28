@@ -108,14 +108,14 @@ a:hover{
 }
 
 #one{
-  background-image: url(img/mac.png);
+  background-image: url(mac.png);
   z-index: 2147483647;
   background-size: cover;
   background-repeat : no-repeat;                 
 }
 
 #one:hover{
-  background-image: url(img/mac.png);
+  background-image: url(mac.png);
   z-index: 2147483647;
   background-size: cover;
   background-repeat : no-repeat;
